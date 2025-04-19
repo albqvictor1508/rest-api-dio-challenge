@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b44a844-dbea-4ec4-a947-f9d572923abf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/src/main/java/dio/web/dio_challenge/DioChallengeApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/src/main/java/dio/web/dio_challenge/dtos/PaymentData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/src/main/java/dio/web/dio_challenge/model/IPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/src/main/java/dio/web/dio_challenge/model/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/src/main/java/dio/web/dio_challenge/strategy/IPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/src/main/java/dio/web/dio_challenge/types/PaymentEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio-challenge/src/test/java/dio/web/dio_challenge/DioChallengeApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +25,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -49,8 +43,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.DioChallengeApplication.executor": "Run",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.DioChallengeApplication.executor": "Debug",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -58,6 +57,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,10 +91,21 @@
       <updated>1745100938209</updated>
       <workItem from="1745100939478" duration="292000" />
       <workItem from="1745101239124" duration="4009000" />
+      <workItem from="1745105262763" duration="806000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.postgresql.util.PSQLException" package="org.postgresql.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
