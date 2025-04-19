@@ -1,5 +1,7 @@
 package dio.web.dio_challenge.model;
 
+import dio.web.dio_challenge.strategy.IPayment;
+import dio.web.dio_challenge.types.PaymentEnum;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -11,5 +13,6 @@ public class Payment {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private Double price;
-    private
+    private PaymentEnum paymentType;
+    private IPayment paymentStrategy;
 }
