@@ -20,4 +20,5 @@ public class Payment {
     @ManyToOne
     @JoinColumn(name = "client_id")
     private Client client;
+    private boolean isPayed;
 }
