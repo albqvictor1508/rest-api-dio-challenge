@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b44a844-dbea-4ec4-a947-f9d572923abf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dio/web/dio_challenge/strategy/Billet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dio/web/dio_challenge/strategy/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dio/web/dio_challenge/strategy/Pix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dio/web/dio_challenge/dtos/PaymentData.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dio/web/dio_challenge/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dio/web/dio_challenge/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dio/web/dio_challenge/strategy/IPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dio/web/dio_challenge/strategy/PaymentStrategy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +94,7 @@
       <updated>1745100938209</updated>
       <workItem from="1745100939478" duration="292000" />
       <workItem from="1745101239124" duration="4009000" />
-      <workItem from="1745105262763" duration="5579000" />
+      <workItem from="1745105262763" duration="5926000" />
     </task>
     <servers />
   </component>
